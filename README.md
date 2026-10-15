@@ -243,18 +243,6 @@ This mode is particularly useful for users discovering the tool or who prefer a 
 </app>
 ```
 
-## New features
-
-1. **Colorized interface**: Uses colors in the terminal for better readability
-2. **Detailed reporting**: Complete statistics on performed conversions
-3. **Parallel mode**: Multi-process processing for faster conversion
-4. **Test mode**: Ability to simulate conversions without modifying files
-5. **Preservation mode**: Save converted files to a separate directory
-6. **Advanced filtering**: Ignore certain files based on regex patterns
-7. **Report generation**: Export statistics in JSON format
-8. **Python conversion**: Analysis and modification of Python files to remove `states` attributes
-9. **Complex condition processing**: Support for conditions with multiple logical operators
-10. **Interactive mode**: Guided interface to easily configure the conversion
 
 ## Remaining limitations
 
